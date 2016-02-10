@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div class="ui large message">$1</div>
+<div className="ui large message">$1</div>
 ]]></content>
     <tabTrigger>ui-large-message</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

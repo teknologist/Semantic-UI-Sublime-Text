@@ -1,12 +1,12 @@
 <snippet>
     <content><![CDATA[
-<div class="ui labeled input">
+<div className="ui labeled input">
 	<input type="text" placeholder="$1">
-	<div class="ui corner label">
-		<i class="$2 icon"></i>
+	<div className="ui corner label">
+		<i className="$2 icon"></i>
 	</div>
 </div>
 ]]></content>
     <tabTrigger>ui-labeled-input</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

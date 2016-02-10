@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-<div class="ui massive icon input">
+<div className="ui massive icon input">
 	<input type="text" placeholder="$1">
-	<i class="$2 icon"></i>
+	<i className="$2 icon"></i>
 </div>
 ]]></content>
     <tabTrigger>ui-massive-icon-input</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

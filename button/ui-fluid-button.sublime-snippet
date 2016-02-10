@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div class="fluid ui button">$1</div>
+<div className="fluid ui button">$1</div>
 ]]></content>
     <tabTrigger>ui-fluid-button</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

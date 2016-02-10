@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div class="big ui button">$1</div>
+<div className="big ui button">$1</div>
 ]]></content>
     <tabTrigger>ui-big-button</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

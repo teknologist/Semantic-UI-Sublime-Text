@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div class="ui red inverted circular segment">$1</div>
+<div className="ui red inverted circular segment">$1</div>
 ]]></content>
     <tabTrigger>ui-red-inverted-circular-segment</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

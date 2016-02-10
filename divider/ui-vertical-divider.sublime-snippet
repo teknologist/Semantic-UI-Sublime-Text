@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-<div class="ui vertical divider></div>
+<div className="ui vertical divider></div>
 ]]></content>
     <tabTrigger>ui-vertical-divider</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>

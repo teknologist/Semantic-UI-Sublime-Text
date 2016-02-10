@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-<div class="ui huge input">
+<div className="ui huge input">
 	<input type="text" placeholder="$1">
 </div>
 ]]></content>
     <tabTrigger>ui-huge-input</tabTrigger>
-    <scope>text.html -text.html.markdown</scope>
+    <scope>source.jsx,source.js</scope>
 </snippet>
